@@ -1,0 +1,47 @@
+//	If you are here somehow, please don't mess up with this.
+//	Or else...
+{
+  //  Background Properties (Basics).
+  "BackGround":
+  {
+    "BackGroundID": 0,
+    "ColorR": 37,
+    "ColorG": 190,
+    "ColorB": 59,
+    "ColorA": 255
+  },
+
+  //  Level information.
+  //  Just info.
+  "Level": {
+    "Size": 3,
+    "Where": {
+      "0": {
+        "xP": 100,
+        "yP": 700,
+        "zP": 0,
+        "LevelState": 1,
+
+        "ID": 1
+      },
+
+      "1": {
+        "xP": 300,
+        "yP": 700,
+        "zP": 0,
+        "LevelState": 0,
+
+        "ID": 2
+      },
+
+      "2": {
+        "xP": 500,
+        "yP": 700,
+        "zP": 0,
+        "LevelState": 0,
+
+        "ID": 3
+      }
+    }
+  }
+}
